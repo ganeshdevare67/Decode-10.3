@@ -2,7 +2,7 @@
 ### EDA on Classification problem where target column is NET-INCOME
 
 ## Tableau Visualization 
-![](images/Tableau_decode.png)
+![Tableau_decode](https://user-images.githubusercontent.com/84759339/125721711-f3af3d86-fed1-4728-bc93-8e3dd180183f.png)
 
 
 
